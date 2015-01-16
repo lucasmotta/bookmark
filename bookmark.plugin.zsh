@@ -42,6 +42,6 @@ _bookmark_complete() {
 
 compdef _bookmark_complete bookmark_to
 
-alias bt=bookmark_to
-alias bl=bookmark_list
-alias ba=bookmark_add
+alias to=bookmark_to
+alias als=bookmark_list
+alias bm=bookmark_add
